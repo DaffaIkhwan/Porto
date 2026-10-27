@@ -15,7 +15,7 @@ export const FALLBACK_PORTFOLIO: Portfolio = {
     location: "Pekanbaru, Riau — Open to Relocate",
     monogram: "ND",
     photo_url: "",
-    resume_url: "/cv-nur-delifah.pdf",
+    resume_url: "/Nur-Delifah-Portfolio-EN.pdf",
     linkedin_url: "",
     github_url: "",
     scholar_url: "",

@@ -8,10 +8,10 @@ export async function downloadPortfolioPdf(opts: {
   siteUrl: string;
 }): Promise<void> {
   const slug = opts.data.profile.name.trim().replace(/\s+/g, "-") || "Portfolio";
-  const url = opts.data.profile.resume_url || "/cv-nur-delifah.pdf";
+  const url = opts.data.profile.resume_url || "/Nur-Delifah-Portfolio-EN.pdf";
   const a = document.createElement("a");
   a.href = url;
-  a.download = `${slug}-Portfolio-${opts.lang.toUpperCase()}.pdf`;
+  a.download = "Nur-Delifah-Portfolio-EN.pdf";
   document.body.appendChild(a);
   a.click();
   a.remove();
