@@ -11,7 +11,7 @@ export const portfolioId: Portfolio = {
     "phone": "+62 82285393727",
     "location": "Pekanbaru, Riau — Bersedia Relokasi",
     "monogram": "ND",
-    "photo_url": "/api/photos/38aea8b4-cbdd-4e45-b1d4-87a611e87ed1",
+    "photo_url": "/photos/profile-hero.jpg",
     "resume_url": "/Nur-Delifah-Portfolio-EN.pdf",
     "linkedin_url": "",
     "github_url": "",
@@ -56,9 +56,9 @@ export const portfolioId: Portfolio = {
       "period": "Jul 2025 – Agu 2025",
       "location": "Riau, Indonesia",
       "photos": [
-        "/api/photos/2824d57b-92f0-45c8-a176-0556af8c0f12",
-        "/api/photos/d5a8412d-ca9d-4b93-9b39-8d96bc48bcbd",
-        "/api/photos/6986cbfc-bc39-4831-b076-656a525268be"
+        "/photos/experience-kkn-1.jpg",
+        "/photos/experience-kkn-2.jpg",
+        "/photos/experience-kkn-3.jpg"
       ],
       "bullets": [
         "Bertanggung jawab atas pengumpulan dan penginputan data 900+ rumah tangga desa ke dalam situs web Sistem Informasi Data Kependudukan Desa (SIDAK).",
@@ -78,8 +78,8 @@ export const portfolioId: Portfolio = {
       "period": "Feb 2025 – Apr 2025",
       "location": "UIN Sultan Syarif Kasim Riau",
       "photos": [
-        "/api/photos/ef6cabdd-6700-4c5c-b02c-d67e77dadff0",
-        "/api/photos/3ceb36c4-9713-43cc-bcad-ac027caacb35"
+        "/photos/experience-lab-1.jpg",
+        "/photos/experience-lab-2.jpg"
       ],
       "bullets": [
         "Berkolaborasi dengan tim peneliti dalam studi yang menerapkan metode machine learning dan deep learning untuk pengolahan data.",
@@ -102,7 +102,7 @@ export const portfolioId: Portfolio = {
       "period": "Jul 2022 – Jun 2026",
       "gpa": "3,64 / 4,00 — Cum Laude",
       "honors": "Penerima Beasiswa Prestasi Pemerintah Provinsi Riau (2022 – 2026)",
-      "photo_url": "/api/photos/d3c0228d-ef13-4868-bfe1-9743c9e5e4ab",
+      "photo_url": "/photos/education-uin.jpg",
       "details": [
         "Lulusan baru Program Studi Teknik Informatika.",
         "Fokus penelitian: machine learning untuk klasifikasi teks, meliputi model LSTM, Random Forest, K-NN, dan SVM.",
@@ -199,7 +199,7 @@ export const portfolioId: Portfolio = {
       "issuer": "Pusat Pengembangan Talenta Digital",
       "year": "2026",
       "url": "",
-      "photo_url": "/api/photos/e85e6d0f-4f90-4860-95dd-b6b2a77c3b5b"
+      "photo_url": "/photos/cert-associate-data-scientist.jpg"
     },
     {
       "id": "cert-ds",
@@ -207,7 +207,7 @@ export const portfolioId: Portfolio = {
       "issuer": "Pusat Pengembangan Literasi Digital",
       "year": "2026",
       "url": "",
-      "photo_url": "/api/photos/772729da-1a75-4d8d-9e51-2abafc13b7d3"
+      "photo_url": "/photos/cert-data-science-literasi.jpg"
     },
     {
       "id": "cert-amt",
@@ -215,7 +215,7 @@ export const portfolioId: Portfolio = {
       "issuer": "Pemprov Riau",
       "year": "2023",
       "url": "",
-      "photo_url": "/api/photos/e98e9df1-4f84-49c5-84f5-c5a466fb0ea5"
+      "photo_url": "/photos/cert-amt-pemprov-riau.jpg"
     },
     {
       "id": "cert-uiux",
@@ -223,7 +223,7 @@ export const portfolioId: Portfolio = {
       "issuer": "Figma Squad",
       "year": "2023",
       "url": "",
-      "photo_url": "/api/photos/bda39074-54df-4be0-b8d7-760e0b132b15"
+      "photo_url": "/photos/cert-uiux-figma.jpg"
     },
     {
       "id": "cert-ai",
@@ -231,7 +231,7 @@ export const portfolioId: Portfolio = {
       "issuer": "Faculty of Science & Technology",
       "year": "2023",
       "url": "",
-      "photo_url": "/api/photos/8d51f702-8f3a-4414-b36a-e6fae19adf5e"
+      "photo_url": "/photos/cert-ai-seminar.jpg"
     },
     {
       "id": "cert-mtcna",
@@ -239,7 +239,7 @@ export const portfolioId: Portfolio = {
       "issuer": "MikroTik",
       "year": "2020",
       "url": "",
-      "photo_url": "/api/photos/68ac9afa-b5c3-4fb8-8757-55e27c1bc22e"
+      "photo_url": "/photos/cert-mikrotik-mtcna.jpg"
     }
   ],
   "activities": [
@@ -249,8 +249,8 @@ export const portfolioId: Portfolio = {
       "org": "Himpunan Mahasiswa Teknik Informatika (HIMATIF)",
       "period": "2023",
       "photos": [
-        "/api/photos/a61ac383-22ce-4439-bfd7-f5c3f27a0ef1",
-        "/api/photos/ebd81d2f-1d53-44ff-8a47-b82129772a78"
+        "/photos/activity-himatif-1.jpg",
+        "/photos/activity-himatif-2.jpg"
       ],
       "bullets": [
         "Mengelola administrasi divisi dan surat-menyurat resmi.",
@@ -263,12 +263,12 @@ export const portfolioId: Portfolio = {
       "org": "Panitia Acara Kampus",
       "period": "2023 – 2025",
       "photos": [
-        "/api/photos/01b5b3c3-60e0-4514-b607-de9923925010",
-        "/api/photos/567be7cf-e465-403d-a58f-47fcfb47818f",
-        "/api/photos/76529b30-5d49-4462-955c-3e734135eec1",
-        "/api/photos/e1a432a3-37a2-4c8b-ac87-97d8880d1f37",
-        "/api/photos/54052cd5-0811-4cca-97ec-69c6cbf1d2d5",
-        "/api/photos/d541ae35-bf33-4948-bb7e-e2fc21be80a3"
+        "/photos/activity-anniversary-1.jpg",
+        "/photos/activity-anniversary-2.jpg",
+        "/photos/activity-anniversary-3.jpg",
+        "/photos/activity-anniversary-4.jpg",
+        "/photos/activity-anniversary-5.jpg",
+        "/photos/activity-anniversary-6.jpg"
       ],
       "bullets": [
         "Mengelola dana kegiatan, menyusun laporan keuangan, serta memastikan transparansi dalam penggunaan anggaran.",
@@ -282,11 +282,11 @@ export const portfolioId: Portfolio = {
       "org": "Beasiswa Prestasi Pemerintah Provinsi Riau",
       "period": "2023 – 2026",
       "photos": [
-        "/api/photos/8953b455-18da-4ad1-978f-ce1f88648336",
-        "/api/photos/763ea097-ee90-49f8-9de1-24ec13757e9a",
-        "/api/photos/87d249ce-a477-4222-af61-dbdb80b26e49",
-        "/api/photos/ff4fb253-734f-4640-9ded-1869313df229",
-        "/api/photos/b6c3f2c7-e3bd-4399-9fc3-ba0930010bcb"
+        "/photos/activity-scholarship-1.jpg",
+        "/photos/activity-scholarship-2.jpg",
+        "/photos/activity-scholarship-3.jpg",
+        "/photos/activity-scholarship-4.jpg",
+        "/photos/activity-scholarship-5.jpg"
       ],
       "bullets": [
         "Mengikuti program Pelatihan Motivasi Berprestasi, Moderasi Beragama, Penguatan Religiusitas, dan Manajemen Diri.",

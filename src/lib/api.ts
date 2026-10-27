@@ -80,5 +80,5 @@ export const apiPatch = <T>(path: string, body?: JsonBody, headers?: Record<stri
 export const apiDelete = <T>(path: string, headers?: Record<string, string>) =>
   apiGet<T>(path, headers);
 export const apiUpload = async <T>(_path: string, _formData: FormData, _headers?: Record<string, string>) => {
-  return { id: "photo-" + Date.now(), url: "/api/photos/38aea8b4-cbdd-4e45-b1d4-87a611e87ed1" } as unknown as T;
+  return { id: "photo-" + Date.now(), url: "/photos/profile-hero.jpg" } as unknown as T;
 };
