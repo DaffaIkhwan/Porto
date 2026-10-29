@@ -38,6 +38,10 @@ export default function Home() {
 
   useEffect(() => {
     document.documentElement.lang = lang;
+    document.title =
+      lang === "id"
+        ? "Nur Delifah — Portofolio & CV | Analisis Data & Machine Learning"
+        : "Nur Delifah — Portfolio & CV | Data Analysis & Machine Learning";
   }, [lang]);
 
   const query = useQuery({
