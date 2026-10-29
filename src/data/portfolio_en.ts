@@ -13,9 +13,9 @@ export const portfolioEn: Portfolio = {
     "monogram": "ND",
     "photo_url": "/photos/profile-hero.jpg",
     "resume_url": "/cv-nur-delifah.pdf",
-    "linkedin_url": "",
-    "github_url": "",
-    "scholar_url": ""
+    "linkedin_url": "https://id.linkedin.com/in/nur-delifah-499393351",
+    "github_url": "https://github.com/ndelifah",
+    "scholar_url": "https://scholar.google.com/citations?view_op=search_authors&mauthors=Nur+Delifah"
   },
   "about": {
     "pull_quote": "Turning raw data into reliable decisions — with the rigor of a researcher and the precision of an administrator.",
