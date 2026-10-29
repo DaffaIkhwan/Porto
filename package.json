@@ -21,10 +21,12 @@
     "tailwind-merge": "^3.0.0"
   },
   "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
     "@types/node": "^22.10.2",
     "@types/react": "^19.0.2",
     "@types/react-dom": "^19.0.2",
     "@vitejs/plugin-react": "^4.3.4",
+    "opentype.js": "^2.0.0",
     "typescript": "^5.7.2",
     "vite": "^6.0.3"
   }
