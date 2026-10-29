@@ -8,7 +8,7 @@ export async function downloadPortfolioPdf(opts: {
   siteUrl: string;
 }): Promise<void> {
   const slug = opts.data.profile.name.trim().replace(/\s+/g, "-") || "Portfolio";
-  const url = opts.data.profile.resume_url || "/Nur-Delifah-Portfolio-EN.pdf";
+  const url = "/Nur-Delifah-Portfolio-EN.pdf";
   const a = document.createElement("a");
   a.href = url;
   a.download = "Nur-Delifah-Portfolio-EN.pdf";

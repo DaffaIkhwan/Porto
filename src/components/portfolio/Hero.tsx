@@ -55,7 +55,7 @@ export default function Hero({
 
           <div className="mt-8 flex flex-wrap items-center gap-3">
             {profile.resume_url ? (
-              <a href={profile.resume_url} download data-testid="hero-download-cv-button">
+              <a href={profile.resume_url} download="cv-nur-delifah.pdf" data-testid="hero-download-cv-button">
                 <Button className="rounded-xl bg-[#9b1c61] px-5 text-white hover:bg-[#821550]">
                   <Download className="mr-2 size-4" />
                   {t.download_cv}

@@ -12,7 +12,7 @@ export const portfolioId: Portfolio = {
     "location": "Pekanbaru, Riau — Bersedia Relokasi",
     "monogram": "ND",
     "photo_url": "/photos/profile-hero.jpg",
-    "resume_url": "/Nur-Delifah-Portfolio-EN.pdf",
+    "resume_url": "/cv-nur-delifah.pdf",
     "linkedin_url": "",
     "github_url": "",
     "scholar_url": ""
