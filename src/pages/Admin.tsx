@@ -690,9 +690,6 @@ export default function Admin() {
                 <TextField label="Phone" value={draft.profile.phone} onChange={(v) => setProfile({ phone: v })} testId="admin-profile-phone-input" />
                 <TextField label="Location" value={draft.profile.location} onChange={(v) => setProfile({ location: v })} testId="admin-profile-location-input" />
                 <TextField label="CV / resume link" value={draft.profile.resume_url} onChange={(v) => setProfile({ resume_url: v })} testId="admin-profile-resume-input" />
-                <TextField label="LinkedIn URL" value={draft.profile.linkedin_url} onChange={(v) => setProfile({ linkedin_url: v })} testId="admin-profile-linkedin-input" />
-                <TextField label="GitHub URL" value={draft.profile.github_url} onChange={(v) => setProfile({ github_url: v })} testId="admin-profile-github-input" />
-                <TextField label="Google Scholar URL" value={draft.profile.scholar_url} onChange={(v) => setProfile({ scholar_url: v })} testId="admin-profile-scholar-input" />
               </div>
               <TextField label="Summary" value={draft.profile.summary} onChange={(v) => setProfile({ summary: v })} testId="admin-profile-summary-input" textarea />
             </TabsContent>

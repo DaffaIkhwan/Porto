@@ -9,9 +9,6 @@ export interface Profile {
   monogram: string;
   photo_url: string;
   resume_url: string;
-  linkedin_url: string;
-  github_url: string;
-  scholar_url: string;
 }
 
 export interface AboutHighlight {
