@@ -1,5 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import { Toaster } from "@/components/ui/sonner";
+import { Analytics } from "@vercel/analytics/react";
 import Home from "@/pages/Home";
 import Admin from "@/pages/Admin";
 
@@ -12,6 +13,7 @@ export default function App() {
         <Route path="/admin" element={<Admin />} />
       </Routes>
       <Toaster richColors />
+      <Analytics />
     </>
   );
 }
