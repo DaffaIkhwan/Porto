@@ -9,13 +9,10 @@ export const portfolioEn: Portfolio = {
     "summary": "Informatics Engineering graduate from UIN Sultan Syarif Kasim Riau, graduating Cum Laude with a GPA of 3.64/4.00 and recipient of the 2022 Riau Provincial Government Achievement Scholarship. Experienced in machine learning research, data processing and analysis, administrative management, and organizational activities — with research papers published in SINTA 3-indexed journals.",
     "email": "ndelifaaa@gmail.com",
     "phone": "+62 82285393727",
-    "location": "Pekanbaru, Riau — Open to Relocate",
+    "location": "Pekanbaru, Riau",
     "monogram": "ND",
     "photo_url": "/photos/profile-hero.jpg",
-    "resume_url": "/cv-nur-delifah.pdf",
-    "linkedin_url": "https://id.linkedin.com/in/nur-delifah-499393351",
-    "github_url": "https://github.com/ndelifah",
-    "scholar_url": "https://scholar.google.com/citations?view_op=search_authors&mauthors=Nur+Delifah"
+    "resume_url": "/Nur_Delifah_ATS_Updated.pdf"
   },
   "about": {
     "pull_quote": "Turning raw data into reliable decisions — with the rigor of a researcher and the precision of an administrator.",
@@ -108,6 +105,20 @@ export const portfolioEn: Portfolio = {
         "Research focus: machine learning for text classification, including LSTM, Random Forest, K-NN, and SVM models.",
         "Active in research assistance, student organizations, and campus event committees alongside academic work."
       ]
+    },
+      
+    {
+      "id": "edu-smk",
+      "institution": "SMKN 2 Tambusai Utara",
+      "degree": "Computer and Network Engineering",
+      "period": "Jul 2018 – Jun 2021",
+      "gpa": "Final Score: 88.43",
+      "honors": "",
+      "photo_url": "/photos/education-smk1.jpg",
+      "details": [
+        "Completed vocational education specializing in Computer and Network Engineering.",
+        "Studied computer systems, networking fundamentals, and network configuration."
+      ]
     }
   ],
   "publications": [
@@ -146,16 +157,10 @@ export const portfolioEn: Portfolio = {
       "items": [
         "Python",
         "SQL",
-        "Pandas",
-        "NumPy",
-        "SciPy",
         "Data Cleaning & Preprocessing",
-        "Scikit-learn",
         "Neural Networks",
         "Feature Engineering",
-        "Model Development & Evaluation",
-        "NLTK & Text Processing",
-        "Matplotlib & Seaborn"
+        "Model Development & Evaluation"
       ]
     },
     {
@@ -210,36 +215,38 @@ export const portfolioEn: Portfolio = {
       "photo_url": "/photos/cert-data-science-literasi.jpg"
     },
     {
-      "id": "cert-amt",
-      "title": "Achievement Motivation Training (AMT)",
-      "issuer": "Pemprov Riau",
-      "year": "2023",
-      "url": "",
-      "photo_url": "/photos/cert-amt-pemprov-riau.jpg"
-    },
-    {
-      "id": "cert-uiux",
-      "title": "Get To Know of UI/UX Design — Technology & Information Seminar",
-      "issuer": "Figma Squad",
-      "year": "2023",
-      "url": "",
-      "photo_url": "/photos/cert-uiux-figma.jpg"
-    },
-    {
-      "id": "cert-ai",
-      "title": "Peran Strategis Sains dan Dunia Industri di Era Kecerdasan Buatan — Seminar",
-      "issuer": "Faculty of Science & Technology",
-      "year": "2023",
-      "url": "",
-      "photo_url": "/photos/cert-ai-seminar.jpg"
-    },
-    {
       "id": "cert-mtcna",
       "title": "MikroTik Certified Network Associate (MTCNA)",
       "issuer": "MikroTik",
       "year": "2020",
       "url": "",
       "photo_url": "/photos/cert-mikrotik-mtcna.jpg"
+    },
+    {
+      "id": "cert-ukk",
+      "title": "Rancang Bangun Jaringan Berbasis Kabel dan Nirkabel dengan VLAN dan Routing",
+      "issuer": "CV. Usaha Muda",
+      "year": "2023",
+      "url": "",
+      "photo_url": "/photos/cert-ukk-smk.jpg"
+      
+    },
+    {
+      "id": "cert-amt",
+      "title": "Achievement Motivation Training (AMT)",
+      "issuer": "Pemprov Riau",
+      "year": "2021",
+      "url": "",
+      "photo_url": "/photos/cert-amt-pemprov-riau.jpg"
+    },
+    {
+      
+      "id": "cert-ai",
+      "title": "Peran Strategis Sains dan Dunia Industri di Era Kecerdasan Buatan — Seminar",
+      "issuer": "Faculty of Science & Technology",
+      "year": "2023",
+      "url": "",
+      "photo_url": "/photos/cert-ai-seminar.jpg"
     }
   ],
   "activities": [

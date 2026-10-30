@@ -1,3 +1,4 @@
+
 import type { Portfolio } from "../lib/types";
 
 export const portfolioId: Portfolio = {
@@ -6,53 +7,52 @@ export const portfolioId: Portfolio = {
     "name": "Nur Delifah",
     "headline": "Lulusan Teknik Informatika — Analisis Data & Machine Learning",
     "availability": "Terbuka untuk posisi administratif, operasional, dan berbasis proyek",
-    "summary": "Lulusan Teknik Informatika dari UIN Sultan Syarif Kasim Riau, lulus Cum Laude dengan IPK 3,64/4,00 dan penerima Beasiswa Prestasi Pemerintah Provinsi Riau tahun 2022. Berpengalaman dalam penelitian machine learning, pengolahan dan analisis data, manajemen administrasi, serta kegiatan organisasi — dengan makalah penelitian yang telah dipublikasikan di jurnal terindeks SINTA 3.",
+    "summary": "Lulusan Teknik Informatika dari UIN Sultan Syarif Kasim Riau dengan predikat Cum Laude dan IPK 3,64/4,00. Penerima Beasiswa Prestasi Pemerintah Provinsi Riau Tahun 2022 hingga menyelesaikan studi. Memiliki pengalaman dalam penelitian machine learning, pengolahan dan analisis data, pengelolaan administrasi, serta kegiatan organisasi. Berkontribusi dalam penelitian ilmiah dengan beberapa artikel yang telah dipublikasikan pada jurnal nasional terakreditasi SINTA 3.",
     "email": "ndelifaaa@gmail.com",
     "phone": "+62 82285393727",
-    "location": "Pekanbaru, Riau — Bersedia Relokasi",
+    "location": "Pekanbaru, Riau",
     "monogram": "ND",
     "photo_url": "/photos/profile-hero.jpg",
-    "resume_url": "/cv-nur-delifah.pdf",
-    "linkedin_url": "https://id.linkedin.com/in/nur-delifah-499393351",
-    "github_url": "https://github.com/ndelifah",
-    "scholar_url": "https://scholar.google.com/citations?view_op=search_authors&mauthors=Nur+Delifah"
+    "resume_url": "/Nur_Delifah_ATS_Updated.pdf"
   },
+
   "about": {
-    "pull_quote": "Mengubah data mentah menjadi keputusan yang andal — dengan ketelitian seorang peneliti dan presisi seorang administrator.",
+    "pull_quote": "Mengolah data menjadi informasi yang bernilai untuk mendukung pengambilan keputusan — dengan ketelitian seorang peneliti dan kecermatan seorang administrator.",
     "pillars": [
       "Analisis Data & Machine Learning",
-      "Keunggulan Operasional",
-      "Penelitian Terpublikasi",
-      "Penerima Beasiswa"
+      "Pengelolaan Operasional",
+      "Publikasi Penelitian",
+      "Penerima Beasiswa Prestasi"
     ],
     "highlights": [
       {
         "id": "hl-gpa",
         "title": "3,64 / 4,00 — Cum Laude",
-        "description": "Lulus Cum Laude Program Studi Teknik Informatika di UIN Sultan Syarif Kasim Riau (2022–2026)."
+        "description": "Lulus dengan predikat Cum Laude dari Program Studi Teknik Informatika UIN Sultan Syarif Kasim Riau (2022–2026)."
       },
       {
         "id": "hl-pubs",
-        "title": "3 makalah terpublikasi",
-        "description": "Artikel penelitian di Jurnal Sains, Teknologi, dan Komunikasi — jurnal nasional terindeks SINTA 3."
+        "title": "3 Artikel Ilmiah Terpublikasi",
+        "description": "Artikel penelitian yang dipublikasikan dalam Science, Technology, and Communication Journal, jurnal nasional terakreditasi SINTA 3."
       },
       {
         "id": "hl-sidak",
-        "title": "900+ rumah tangga",
-        "description": "Data kependudukan desa dikumpulkan dan diinput ke dalam sistem SIDAK dengan kelengkapan dan akurasi yang terjamin dari awal hingga akhir."
+        "title": "900+ Kepala Keluarga",
+        "description": "Melakukan pengumpulan dan penginputan data kependudukan lebih dari 900 kepala keluarga ke dalam sistem SIDAK dengan memastikan kelengkapan dan keakuratan data."
       },
       {
         "id": "hl-scholar",
-        "title": "Beasiswa penuh, 2022–2026",
-        "description": "Penerima Beasiswa Prestasi Pemerintah Provinsi Riau, yang dipertahankan hingga studi selesai."
+        "title": "Beasiswa Penuh, 2022–2026",
+        "description": "Penerima Beasiswa Prestasi Pemerintah Provinsi Riau hingga menyelesaikan masa studi."
       }
     ]
   },
+
   "experiences": [
     {
       "id": "exp-kkn",
       "org": "Kuliah Kerja Nyata (KKN)",
-      "role": "Penanggung Jawab (PIC) Input Data Penduduk Desa",
+      "role": "Penanggung Jawab Pengumpulan dan Penginputan Data Penduduk Desa",
       "period": "Jul 2025 – Agu 2025",
       "location": "Riau, Indonesia",
       "photos": [
@@ -61,20 +61,21 @@ export const portfolioId: Portfolio = {
         "/photos/experience-kkn-3.jpg"
       ],
       "bullets": [
-        "Bertanggung jawab atas pengumpulan dan penginputan data 900+ rumah tangga desa ke dalam situs web Sistem Informasi Data Kependudukan Desa (SIDAK).",
-        "Memastikan kelengkapan dan akurasi seluruh data yang diinput ke dalam sistem."
+        "Bertanggung jawab melakukan pengumpulan dan penginputan data kependudukan lebih dari 900 kepala keluarga ke dalam website Sistem Informasi Data Kependudukan Desa (SIDAK).",
+        "Memastikan kelengkapan dan keakuratan seluruh data yang dimasukkan ke dalam sistem."
       ],
       "tags": [
-        "Entri Data",
+        "Penginputan Data",
         "SIDAK",
         "Kualitas Data",
         "Kepemimpinan Tim"
       ]
     },
+
     {
       "id": "exp-lab",
       "org": "Laboratorium Inkubator Bisnis, Teknik Informatika",
-      "role": "Asisten Peneliti Mahasiswa",
+      "role": "Asisten Penelitian Mahasiswa",
       "period": "Feb 2025 – Apr 2025",
       "location": "UIN Sultan Syarif Kasim Riau",
       "photos": [
@@ -82,9 +83,9 @@ export const portfolioId: Portfolio = {
         "/photos/experience-lab-2.jpg"
       ],
       "bullets": [
-        "Berkolaborasi dengan tim peneliti dalam studi yang menerapkan metode machine learning dan deep learning untuk pengolahan data.",
-        "Membantu pengumpulan, analisis, dan interpretasi data dalam lingkup penelitian.",
-        "Berkontribusi dalam penyusunan dan pengajuan publikasi jurnal ilmiah di bawah bimbingan dosen pembimbing — berhasil menerbitkan artikel terindeks SINTA 3 setelah program berakhir."
+        "Berkolaborasi dengan tim peneliti dalam penelitian yang menerapkan metode machine learning dan deep learning untuk pengolahan data.",
+        "Membantu proses pengumpulan, analisis, dan interpretasi data sesuai dengan ruang lingkup penelitian.",
+        "Berkontribusi dalam penyusunan dan pengajuan publikasi artikel ilmiah di bawah bimbingan dosen pembimbing hingga berhasil dipublikasikan pada jurnal terakreditasi SINTA 3."
       ],
       "tags": [
         "Machine Learning",
@@ -94,27 +95,43 @@ export const portfolioId: Portfolio = {
       ]
     }
   ],
+
   "education": [
     {
       "id": "edu-uin",
       "institution": "Universitas Islam Negeri Sultan Syarif Kasim Riau",
-      "degree": "Sarjana Teknik (S.T.) Teknik Informatika",
+      "degree": "Sarjana Teknik (S.T.) — Teknik Informatika",
       "period": "Jul 2022 – Jun 2026",
       "gpa": "3,64 / 4,00 — Cum Laude",
-      "honors": "Penerima Beasiswa Prestasi Pemerintah Provinsi Riau (2022 – 2026)",
+      "honors": "Penerima Beasiswa Prestasi Pemerintah Provinsi Riau (2022–2026)",
       "photo_url": "/photos/education-uin.jpg",
       "details": [
-        "Lulusan baru Program Studi Teknik Informatika.",
-        "Fokus penelitian: machine learning untuk klasifikasi teks, meliputi model LSTM, Random Forest, K-NN, dan SVM.",
-        "Aktif dalam asistensi penelitian, organisasi kemahasiswaan, dan kepanitiaan acara kampus di samping kegiatan akademik."
+        "Lulusan Program Studi Teknik Informatika.",
+        "Fokus penelitian: penerapan machine learning untuk klasifikasi teks, termasuk penggunaan model LSTM, Random Forest, K-NN, dan SVM.",
+        "Aktif dalam kegiatan asistensi penelitian, organisasi mahasiswa, dan kepanitiaan kegiatan kampus di samping aktivitas akademik."
+      ]
+    },
+
+    {
+      "id": "edu-smk",
+      "institution": "SMKN 2 Tambusai Utara",
+      "degree": "Teknik Komputer dan Jaringan",
+      "period": "Jul 2018 – Jun 2021",
+      "gpa": "Nilai Akhir: 88,43",
+      "honors": "",
+      "photo_url": "/photos/education-smk1.jpg",
+      "details": [
+        "Menyelesaikan pendidikan kejuruan dengan konsentrasi Teknik Komputer dan Jaringan.",
+        "Mempelajari sistem komputer, dasar-dasar jaringan, serta konfigurasi jaringan."
       ]
     }
   ],
+
   "publications": [
     {
       "id": "pub-lstm",
       "title": "Interpretative comparative analysis of LSTM and random forest for multi-label classification of English Qur'an translation",
-      "venue": "Science, Technology, and Communication Journal — Vol 6, Issue 3",
+      "venue": "Science, Technology, and Communication Journal — Vol. 6, Edisi 3",
       "year": "2026",
       "index_label": "SINTA 3",
       "url": "https://doi.org/10.59190/stc.v6i3.373",
@@ -123,7 +140,7 @@ export const portfolioId: Portfolio = {
     {
       "id": "pub-knn",
       "title": "A classification of Quran translations using K-nearest neighbors, support vector machine and random forest method",
-      "venue": "Science, Technology, and Communication Journal — Vol 6, Issue 1",
+      "venue": "Science, Technology, and Communication Journal — Vol. 6, Edisi 1",
       "year": "2025",
       "index_label": "SINTA 3",
       "url": "https://doi.org/10.59190/stc.v6i1.337",
@@ -132,13 +149,14 @@ export const portfolioId: Portfolio = {
     {
       "id": "pub-uiux",
       "title": "UI/UX design thinking adoption for integrated AI point-of-sale system (Case study: Plastic Poultry Wholesale Store)",
-      "venue": "Science, Technology, and Communication Journal — Vol 5, Issue 3",
+      "venue": "Science, Technology, and Communication Journal — Vol. 5, Edisi 3",
       "year": "2025",
       "index_label": "SINTA 3",
       "url": "https://www.sintechcomjournal.com/index.php/stc/article/view/311",
       "photo_url": ""
     }
   ],
+
   "skill_groups": [
     {
       "id": "sk-ds",
@@ -146,29 +164,25 @@ export const portfolioId: Portfolio = {
       "items": [
         "Python",
         "SQL",
-        "Pandas",
-        "NumPy",
-        "SciPy",
-        "Pembersihan & Praproses Data",
-        "Scikit-learn",
-        "Jaringan Saraf Tiruan",
+        "Pembersihan & Prapemrosesan Data",
+        "Neural Networks",
         "Feature Engineering",
-        "Pengembangan & Evaluasi Model",
-        "NLTK & Pemrosesan Teks",
-        "Matplotlib & Seaborn"
+        "Pengembangan & Evaluasi Model"
       ]
     },
+
     {
       "id": "sk-admin",
       "category": "Administrasi & Operasional",
       "items": [
-        "Entri & Pengelolaan Data",
+        "Penginputan & Pengelolaan Data",
         "Manajemen Administrasi",
-        "Manajemen Keuangan",
-        "Koordinasi Acara",
+        "Pengelolaan Keuangan",
+        "Koordinasi Kegiatan",
         "Orientasi Pelayanan"
       ]
     },
+
     {
       "id": "sk-soft",
       "category": "Kompetensi Profesional",
@@ -181,6 +195,7 @@ export const portfolioId: Portfolio = {
         "Manajemen Tim"
       ]
     },
+
     {
       "id": "sk-tools",
       "category": "Perangkat & Produktivitas",
@@ -192,6 +207,7 @@ export const portfolioId: Portfolio = {
       ]
     }
   ],
+
   "certifications": [
     {
       "id": "cert-ads",
@@ -201,6 +217,7 @@ export const portfolioId: Portfolio = {
       "url": "",
       "photo_url": "/photos/cert-associate-data-scientist.jpg"
     },
+
     {
       "id": "cert-ds",
       "title": "Data Science dan Pemanfaatannya di Berbagai Sektor",
@@ -209,30 +226,7 @@ export const portfolioId: Portfolio = {
       "url": "",
       "photo_url": "/photos/cert-data-science-literasi.jpg"
     },
-    {
-      "id": "cert-amt",
-      "title": "Achievement Motivation Training (AMT)",
-      "issuer": "Pemprov Riau",
-      "year": "2023",
-      "url": "",
-      "photo_url": "/photos/cert-amt-pemprov-riau.jpg"
-    },
-    {
-      "id": "cert-uiux",
-      "title": "Get To Know of UI/UX Design — Technology & Information Seminar",
-      "issuer": "Figma Squad",
-      "year": "2023",
-      "url": "",
-      "photo_url": "/photos/cert-uiux-figma.jpg"
-    },
-    {
-      "id": "cert-ai",
-      "title": "Peran Strategis Sains dan Dunia Industri di Era Kecerdasan Buatan — Seminar",
-      "issuer": "Faculty of Science & Technology",
-      "year": "2023",
-      "url": "",
-      "photo_url": "/photos/cert-ai-seminar.jpg"
-    },
+
     {
       "id": "cert-mtcna",
       "title": "MikroTik Certified Network Associate (MTCNA)",
@@ -240,8 +234,36 @@ export const portfolioId: Portfolio = {
       "year": "2020",
       "url": "",
       "photo_url": "/photos/cert-mikrotik-mtcna.jpg"
+    },
+
+    {
+      "id": "cert-ukk",
+      "title": "Rancang Bangun Jaringan Berbasis Kabel dan Nirkabel dengan VLAN dan Routing",
+      "issuer": "CV. Usaha Muda",
+      "year": "2023",
+      "url": "",
+      "photo_url": "/photos/cert-ukk-smk.jpg"
+    },
+
+    {
+      "id": "cert-amt",
+      "title": "Achievement Motivation Training (AMT)",
+      "issuer": "Pemerintah Provinsi Riau",
+      "year": "2021",
+      "url": "",
+      "photo_url": "/photos/cert-amt-pemprov-riau.jpg"
+    },
+
+    {
+      "id": "cert-ai",
+      "title": "Peran Strategis Sains dan Dunia Industri di Era Kecerdasan Buatan — Seminar",
+      "issuer": "Fakultas Sains dan Teknologi",
+      "year": "2023",
+      "url": "",
+      "photo_url": "/photos/cert-ai-seminar.jpg"
     }
   ],
+
   "activities": [
     {
       "id": "act-himatif",
@@ -253,14 +275,15 @@ export const portfolioId: Portfolio = {
         "/photos/activity-himatif-2.jpg"
       ],
       "bullets": [
-        "Mengelola administrasi divisi dan surat-menyurat resmi.",
-        "Berkoordinasi dengan pihak internal dan eksternal untuk mendukung komunikasi organisasi."
+        "Mengelola administrasi divisi dan surat-menyurat resmi organisasi.",
+        "Berkoordinasi dengan pihak internal maupun eksternal untuk mendukung komunikasi organisasi."
       ]
     },
+
     {
       "id": "act-treasurer",
       "role": "Bendahara — Dies Natalis ke-25 Program Studi Teknik Informatika",
-      "org": "Panitia Acara Kampus",
+      "org": "Panitia Kegiatan Kampus",
       "period": "2023 – 2025",
       "photos": [
         "/photos/activity-anniversary-1.jpg",
@@ -271,14 +294,15 @@ export const portfolioId: Portfolio = {
         "/photos/activity-anniversary-6.jpg"
       ],
       "bullets": [
-        "Mengelola dana kegiatan, menyusun laporan keuangan, serta memastikan transparansi dalam penggunaan anggaran.",
-        "Bertugas di berbagai divisi, termasuk Dokumentasi dan Kesehatan.",
-        "Mendukung kelancaran pelaksanaan acara kampus tingkat jurusan sesuai dengan peran yang ditugaskan."
+        "Mengelola dana kegiatan, menyusun laporan keuangan, serta memastikan transparansi penggunaan anggaran.",
+        "Terlibat dalam berbagai divisi kepanitiaan, termasuk Dokumentasi dan Kesehatan.",
+        "Mendukung kelancaran pelaksanaan kegiatan kampus tingkat program studi sesuai dengan tugas dan tanggung jawab yang diberikan."
       ]
     },
+
     {
       "id": "act-scholar",
-      "role": "Kegiatan Peningkatan Mutu Akademik — Program Beasiswa",
+      "role": "Kegiatan Peningkatan Kualitas Akademik — Program Beasiswa",
       "org": "Beasiswa Prestasi Pemerintah Provinsi Riau",
       "period": "2023 – 2026",
       "photos": [
@@ -289,8 +313,8 @@ export const portfolioId: Portfolio = {
         "/photos/activity-scholarship-5.jpg"
       ],
       "bullets": [
-        "Mengikuti program Pelatihan Motivasi Berprestasi, Moderasi Beragama, Penguatan Religiusitas, dan Manajemen Diri.",
-        "Mengembangkan motivasi berprestasi, disiplin, dan pengambilan keputusan yang bertanggung jawab guna mendukung pengembangan diri."
+        "Mengikuti program Achievement Motivation Training, Moderasi Beragama, Penguatan Religiusitas, dan Manajemen Diri.",
+        "Mengembangkan motivasi berprestasi, kedisiplinan, serta kemampuan mengambil keputusan secara bertanggung jawab untuk mendukung pengembangan diri."
       ]
     }
   ]
